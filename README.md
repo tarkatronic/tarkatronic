@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I write Python and cause trouble. 🐍
+
+I also play around with other languages, and focus as much of my energy as feasible on Open Source technology.
 <!--
 **tarkatronic/tarkatronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
