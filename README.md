@@ -17,5 +17,3 @@ I also like rock climbing. And cars. And beer. But those aren't really related t
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/thejoeyaz/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/mrbeersnob)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/1971587)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarkatronic&show_icons=true)  
