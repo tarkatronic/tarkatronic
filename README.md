@@ -6,7 +6,7 @@ I like code. In fact, I've liked code for a very long time. Why? Because making 
 
 I also like rock climbing. And cars. And beer. But those aren't really related to this. For the most part. Sometimes.
 
-- 🔭 I’m currently working on Open Source things for GoDaddy, and my side project, the Facet MUD Project 
+- 🔭 I’m currently working on security and Open Source for Pinwheel (@underdog-tech)
 - 🌱 I’m currently learning TypeScript, Nim, Rust, Elixir, Go 
 - 😄 Pronouns: He/Him 
 
