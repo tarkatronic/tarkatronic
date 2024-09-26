@@ -6,7 +6,7 @@ I like code. In fact, I've liked code for a very long time. Why? Because making 
 
 I also like rock climbing. And cars. And beer. But those aren't really related to this. For the most part. Sometimes.
 
-- 🔭 I’m currently seeking new employment!
+- 🔭 I’m currently building fairer financial products at @Affirm, and loving it.
 - 🌱 I’m currently learning TypeScript, Nim, Rust, Elixir, Go 
 - 😄 Pronouns: He/Him 
 
